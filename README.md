@@ -157,17 +157,6 @@ Ao iniciar, aparecerá:
 BOT RODANDO...
 ```
 
----
-
-# 📂 Estrutura do Projeto
-
-```
-📁 BotTelegram/
-│
-├── bot.py          # Código principal do bot
-├── README.md       # Documentação
-└── requirements.txt (opcional)
-```
 
 ---
 
@@ -191,4 +180,5 @@ O projeto já exige que elas venham por variáveis de ambiente.
 Pull requests e sugestões são bem-vindas!
 
 ---
+
 
